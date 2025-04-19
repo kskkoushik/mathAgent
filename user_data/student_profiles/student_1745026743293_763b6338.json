@@ -1,0 +1,30 @@
+{
+    "student_id": "student_1745026743293_763b6338",
+    "name": "Student",
+    "topics_strengths": {},
+    "topics_weaknesses": {},
+    "interaction_log": [
+        {
+            "topic": "general",
+            "timestamp": 1745026750.8054066,
+            "success": null
+        },
+        {
+            "topic": "general",
+            "timestamp": 1745026770.503074,
+            "success": null
+        },
+        {
+            "topic": "general",
+            "timestamp": 1745026930.0668974,
+            "success": null
+        }
+    ],
+    "questions_solved": 0,
+    "correct_solutions": 0,
+    "recent_topics": [
+        "general"
+    ],
+    "difficulty_preference": "medium",
+    "last_active": 1745026930.0668974
+}

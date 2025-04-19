@@ -1,0 +1,20 @@
+{
+    "student_id": "student_1745025939962_c2154643",
+    "name": "Student",
+    "topics_strengths": {},
+    "topics_weaknesses": {},
+    "interaction_log": [
+        {
+            "topic": "general",
+            "timestamp": 1745025994.1937268,
+            "success": null
+        }
+    ],
+    "questions_solved": 0,
+    "correct_solutions": 0,
+    "recent_topics": [
+        "general"
+    ],
+    "difficulty_preference": "medium",
+    "last_active": 1745025994.1937268
+}

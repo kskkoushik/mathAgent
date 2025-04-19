@@ -1,0 +1,12 @@
+chainlit
+matplotlib
+numpy
+pandas
+langchain
+langchain-core
+langchain-openai
+langchain-community
+chromadb
+tavily-python
+typing-extensions
+tqdm
