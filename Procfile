@@ -1,1 +1,1 @@
-web: python -m chainlit run app.py -h --port 8080
+web: chainlit run main.py --host 0.0.0.0 --port 10000
