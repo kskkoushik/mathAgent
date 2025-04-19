@@ -1,0 +1,20 @@
+{
+    "student_id": "student_1745008090056_b480bc45",
+    "name": "Student",
+    "topics_strengths": {},
+    "topics_weaknesses": {},
+    "interaction_log": [
+        {
+            "topic": "calculus",
+            "timestamp": 1745008135.2577214,
+            "success": null
+        }
+    ],
+    "questions_solved": 0,
+    "correct_solutions": 0,
+    "recent_topics": [
+        "calculus"
+    ],
+    "difficulty_preference": "medium",
+    "last_active": 1745008135.2577214
+}

@@ -1,0 +1,5 @@
+JEE Mathematics Formulas:
+
+1. Quadratic Formula: $x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$
+2. Integration by Parts: $\int u \, dv = uv - \int v \, du$
+3. Differentiation: $\frac{d}{dx}(x^n) = nx^{n-1}$
